@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dickson.connect",
+    "sha256_cert_fingerprints":
+    ["A4:80:DD:5D:98:5D:42:AF:6D:43:1B:53:83:7F:4F:C4:0C:09:B9:DB:EB:4F:E9:B0:1F:A8:49:EB:88:40:96:F6"]
+  }
+}]
