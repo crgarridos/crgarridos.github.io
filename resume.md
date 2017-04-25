@@ -1,5 +1,7 @@
 # My Curriculum Vitae
 
+[cgarrido dickson](https://cgarrido.me/dickson)
+
 [cgarrido redirect](https://cgarrido.me/t.php)
 
 [https://connect.dickson-constant.com/authentification](https://connect.dickson-constant.com/authentification/cristian@ylly.fr/cbae0da336c76a4ad6f6e7a85a39b2e5)
