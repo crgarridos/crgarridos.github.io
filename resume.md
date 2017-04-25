@@ -1,3 +1,3 @@
 # My Curriculum Vitae
  
-[https://devapi.beton40.com/dickson](https://devapi.beton40.com/dickson)
+[https://cgarrido.me/t.php](https://cgarrido.me/t.php)
