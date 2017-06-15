@@ -8,11 +8,11 @@
 
 # Dickson-Connect's Sections
 
-- [https://connect.dickson-constant.com/](/)
-- [https://connect.dickson-constant.com/authentification](/authentification)
-- [https://connect.dickson-constant.com/documents](/documents)
-- [https://connect.dickson-constant.com/outils](/outils)
-- [https://connect.dickson-constant.com/catalogue](/catalogue)
-- [https://connect.dickson-constant.com/mon-compte](/mon-compte)
-- [https://connect.dickson-constant.com/connexion](/connexion)
+- [/](https://connect.dickson-constant.com/)
+- [/authentification](https://connect.dickson-constant.com/authentification)
+- [/documents](https://connect.dickson-constant.com/documents)
+- [/outils](https://connect.dickson-constant.com/outils)
+- [/catalogue](https://connect.dickson-constant.com/catalogue)
+- [/mon-compte](https://connect.dickson-constant.com/mon-compte)
+- [/connexion](https://connect.dickson-constant.com/connexion)
 
