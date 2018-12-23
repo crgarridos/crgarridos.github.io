@@ -1,6 +1,5 @@
 ---
 title: Cristian Garrido
-layout: index
 ---
 
 ## Welcome to GitHub Pages
