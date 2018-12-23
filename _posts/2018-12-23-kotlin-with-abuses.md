@@ -1,3 +1,9 @@
+---
+layout: post
+title: Kotlin - with abuses
+---
+
+
 As widely known, Kotlin introduced very delightful features and utils functions in its standard library in order to improve our productivity when crafting new code. As more as we use these features, we are sometimes tempted to use them more and more. Personally, I think in the in all the cases when I wanted to get rid of extra lines, extra variable declarations, extra branching conditions and so on. 
 
 In this article, I want to address an issue with the last sentence, especially the use of the apply/with/let/also utility functions. Here their signatures as a reminder:
