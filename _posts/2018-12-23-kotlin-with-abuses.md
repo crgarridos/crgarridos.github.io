@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kotlin - with abuses
+tags: kotlin, clean code
 ---
 
 
