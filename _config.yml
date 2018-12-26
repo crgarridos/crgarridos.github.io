@@ -35,6 +35,9 @@ algolia:
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
 
+disqus:
+  shortname: crgarridos
+
 # Build settings
 markdown: kramdown
 # !github-pages! mandatory › https://help.github.com/articles/using-jekyll-with-pages/#configuration-settings-you-cannot-change
@@ -106,3 +109,4 @@ defaults:
     values:
       layout: post
       read_time: true
+      comments: true
