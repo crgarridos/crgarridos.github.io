@@ -109,4 +109,5 @@ defaults:
     values:
       layout: post
       read_time: true
+      permalink: /:categories/:year/:month/:day/:title
       comments: true
