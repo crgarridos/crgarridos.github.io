@@ -76,6 +76,8 @@ plugins: # previsously gems
 paginate: 10
 paginate_path: /page:num/
 
+include: [".well-known"]
+
 # Exclude from processing.
 exclude:
   - .asset-cache
