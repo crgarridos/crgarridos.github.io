@@ -1,52 +1,57 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.dickson.connect",
-    "sha256_cert_fingerprints":[
-      "A4:80:DD:5D:98:5D:42:AF:6D:43:1B:53:83:7F:4F:C4:0C:09:B9:DB:EB:4F:E9:B0:1F:A8:49:EB:88:40:96:F6"
-    ]
-  }
-},
-{
-  "relation":[
-     "delegate_permission/common.handle_all_urls"
-  ],
-  "target":{
-     "namespace":"android_app",
-     "package_name":"fr.axa.axaplus.debug",
-     "sha256_cert_fingerprints":[
-        "C6:4E:B2:EC:13:BA:AF:E3:BE:93:88:87:B2:24:BD:53:49:38:EA:C3:F4:A4:29:5B:54:8C:7B:D3:2F:98:74:57"
-     ]
+[
+  {
+    "relation":[
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target":{
+      "namespace":"android_app",
+      "package_name":"com.dickson.connect",
+      "sha256_cert_fingerprints":[
+        "A4:80:DD:5D:98:5D:42:AF:6D:43:1B:53:83:7F:4F:C4:0C:09:B9:DB:EB:4F:E9:B0:1F:A8:49:EB:88:40:96:F6"
+      ]
+    }
   },
-  "relation_extensions":{
-     "delegate_permission/common.handle_all_urls":{
+  {
+    "relation":[
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target":{
+      "namespace":"android_app",
+      "package_name":"fr.axa.axaplus.debug",
+      "sha256_cert_fingerprints":[
+        "82:CA:98:07:AA:0E:B1:00:38:34:C3:75:3A:B0:E1:BD:1A:29:40:66:8A:B8:F9:10:BA:87:30:F8:B6:26:DC:96"
+      ]
+    },
+    "relation_extensions":{
+      "delegate_permission/common.handle_all_urls":{
         "dynamic_app_link_components":[
-           {
-              "/":"/universal/*"
-           }
+          {
+            "/":"/applinks/*"
+          }
         ]
-     }
-  }
-},
-{
-  "relation":[
-     "delegate_permission/common.handle_all_urls"
-  ],
-  "target":{
-     "namespace":"android_app",
-     "package_name":"fr.axa.axaplus.recette",
-     "sha256_cert_fingerprints":[
-        "84:12:AE:5B:E1:18:2A:59:35:0E:31:91:BD:EE:D3:7E:89:8D:01:05:FE:C5:84:B4:CC:8C:E9:84:5A:0C:12:0A"
-     ]
+      }
+    }
   },
-  "relation_extensions":{
-     "delegate_permission/common.handle_all_urls":{
+  {
+    "relation":[
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target":{
+      "namespace":"android_app",
+      "package_name":"fr.axa.axaplus.recette",
+      "sha256_cert_fingerprints":[
+        "84:12:AE:5B:E1:18:2A:59:35:0E:31:91:BD:EE:D3:7E:89:8D:01:05:FE:C5:84:B4:CC:8C:E9:84:5A:0C:12:0A",
+        "82:CA:98:07:AA:0E:B1:00:38:34:C3:75:3A:B0:E1:BD:1A:29:40:66:8A:B8:F9:10:BA:87:30:F8:B6:26:DC:96"
+      ]
+    },
+    "relation_extensions":{
+      "delegate_permission/common.handle_all_urls":{
         "dynamic_app_link_components":[
-           {
-              "/":"/universal/*"
-           }
+          {
+            "/":"/applinks/*"
+          }
         ]
-     }
+      }
+    }
   }
-}]
+]
