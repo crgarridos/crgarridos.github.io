@@ -19,7 +19,7 @@
       "namespace":"android_app",
       "package_name":"fr.axa.axaplus.debug",
       "sha256_cert_fingerprints":[
-        "82:CA:98:07:AA:0E:B1:00:38:34:C3:75:3A:B0:E1:BD:1A:29:40:66:8A:B8:F9:10:BA:87:30:F8:B6:26:DC:96"
+        "47:1E:65:22:74:93:80:EE:71:6F:58:CD:11:AA:86:B8:B0:47:34:9D:44:D8:AF:10:68:C4:5F:F1:27:05:A3:4E"
       ]
     },
     "relation_extensions":{
@@ -41,7 +41,7 @@
       "package_name":"fr.axa.axaplus.recette",
       "sha256_cert_fingerprints":[
         "84:12:AE:5B:E1:18:2A:59:35:0E:31:91:BD:EE:D3:7E:89:8D:01:05:FE:C5:84:B4:CC:8C:E9:84:5A:0C:12:0A",
-        "82:CA:98:07:AA:0E:B1:00:38:34:C3:75:3A:B0:E1:BD:1A:29:40:66:8A:B8:F9:10:BA:87:30:F8:B6:26:DC:96"
+        "47:1E:65:22:74:93:80:EE:71:6F:58:CD:11:AA:86:B8:B0:47:34:9D:44:D8:AF:10:68:C4:5F:F1:27:05:A3:4E"
       ]
     },
     "relation_extensions":{
